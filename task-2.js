@@ -21,3 +21,8 @@ const numbers = [5, 6, 11, 12, 98, 5];
 const find = 5;
 const result = findNumber(numbers, find);
 console.log(result);
+
+const numbers2 = [5,6,11,12,98, 5]
+const find2= 25
+const result2 = findNumber(numbers2, find2);
+console.log(result2);
